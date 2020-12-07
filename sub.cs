@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-return a*b;
-=======
-return a+b
->>>>>>> master
+
+return a+b;
