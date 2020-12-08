@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-Class B
-return a*b;
-=======
-
-
-
-
-
-
-
-return a+b
->>>>>>> multi
+return a-b;
+by master
+by bob
