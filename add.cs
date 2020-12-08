@@ -1,10 +1,1 @@
-
-class A
-return a+b;
-
-
-
-
-
-return a+b
-
+this is master
